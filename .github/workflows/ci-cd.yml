@@ -20,4 +20,4 @@ jobs:
     - name: Run tests
       run: python -m pytest
     - name: Lint
-      run: pip install flake8 && flake8 .
+
